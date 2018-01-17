@@ -1,0 +1,50 @@
+body {
+	background-image: url(images/3.jpg);
+}
+
+div {
+
+    margin-left: 710px;
+
+    font-size: 70px;
+
+    color: #0B6A8A;
+
+}
+
+p {
+	font-size: 55px;
+
+    margin-left: 440px;
+
+    margin-bottom: 100px;
+
+    color: #218500;
+
+}
+
+.d8 {
+
+	color: #0B6A8A;
+
+    font-size: 40px;
+
+    margin-left: 200px;
+
+    color: #071642;
+
+}
+
+.d8:hover {
+
+	border: solid 5px #000000;
+
+    background-color: #16379C;
+
+    border-radius: 20px;
+
+    box-shadow: 3px 3px 7px #000000;
+
+
+}
+
